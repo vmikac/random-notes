@@ -1,9 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Random notes'
 theme = 'cactus'
 GoogleAnalytics = ""
 
+
+[Params]
+  [Comments]
+    enabled = false
 
 [caches]
   [caches.images]
