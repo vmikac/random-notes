@@ -6,3 +6,7 @@ theme = 'cactus'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+[params]
+  googleAnalytics = ""
