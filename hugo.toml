@@ -8,5 +8,4 @@ theme = 'cactus'
     dir = ':cacheDir/images'
 
 
-[params]
-  googleAnalytics = ""
+GoogleAnalytics = false
